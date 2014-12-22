@@ -1,0 +1,26 @@
+.icon-flipped {
+    transform: scaleX(-1);
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+}
+
+#navbar {
+    position: relative;
+}
+
+#chat {
+    position: relative;
+}
+
+#chat .panel-body {
+    height: 600px;
+    position: relative;
+}
+
+#chat #formField {
+    position: absolute;
+    bottom: 20px;
+}
+
+#sidebar {}

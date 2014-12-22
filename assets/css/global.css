@@ -1,0 +1,10 @@
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+#messages {
+    max-height: 365px;
+    overflow: auto;
+    padding: 20px 0;
+}

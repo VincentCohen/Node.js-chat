@@ -1,0 +1,6 @@
+{
+    "name": "NodeApp",
+    "description": "example chat application with express.io",
+    "version": "0.0.1",
+    "dependencies": {}
+}
